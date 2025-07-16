@@ -32,4 +32,4 @@ async def pato(ctx):
     url_imagen =obtener_pato()
     await ctx.send(url_imagen)
 
-bot.run("MTM4OTc2OTg5NzMzMTkxNzAyMQ.GNaLmA.r88K5iHBdWe3Zomg0YpF7k78KvFS40SYA92tA8")
+bot.run("aca va el token de tu bot.")
